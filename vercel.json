@@ -1,0 +1,9 @@
+// vercel.json
+{
+  "routes": {
+    "chatGemini": {
+      "method": ["POST"],
+      "src": "vercel.js"
+    }
+  }
+}
