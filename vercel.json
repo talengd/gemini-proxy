@@ -2,7 +2,7 @@
   "routes": {
     "chatGemini": [{
       "method": ["POST"],
-      "src": "vercel.js"
+      "src": "api/vercel.js"
     }]
   }
 }
