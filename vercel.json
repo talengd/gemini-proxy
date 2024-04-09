@@ -1,8 +1,0 @@
-{
-  "routes": [{
-    "chatGemini": {
-      "method": ["POST"],
-      "src": "api/vercel.js"
-    }
-  }]
-}
